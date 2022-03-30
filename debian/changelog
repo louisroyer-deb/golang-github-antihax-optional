@@ -1,0 +1,5 @@
+golang-github-antihax-optional (1.0.0-1) bullseye; urgency=medium
+
+  * UNOFFICIAL Packaging - Initial release
+
+ -- Louis Royer <louis.royer@irit.fr>  Wed, 30 Mar 2022 13:32:54 +0200
