@@ -1,5 +1,5 @@
 Source: golang-github-antihax-optional
-Maintainer: Debian Go Packaging Team <team+pkg-go@tracker.debian.org>
+Maintainer: Louis Royer <louis.royer@irit.fr>
 Uploaders: Louis Royer <louis.royer@irit.fr>
 Section: golang
 Testsuite: autopkgtest-pkg-go
