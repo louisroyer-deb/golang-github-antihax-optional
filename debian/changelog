@@ -1,3 +1,9 @@
+golang-github-antihax-optional (1.0.0-2) bookworm; urgency=medium
+
+  * Update to bookworm
+
+ -- Louis Royer <louis.royer@irit.fr>  Sun, 11 Jun 2023 16:40:03 +0200
+
 golang-github-antihax-optional (1.0.0-1) bullseye; urgency=medium
 
   * UNOFFICIAL Packaging - Initial release
